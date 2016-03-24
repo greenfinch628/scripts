@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# i changed this
+
 EXCLUDES=(
  --exclude '\.*'
  --exclude '*.vdi.0'
