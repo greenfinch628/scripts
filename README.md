@@ -2,6 +2,7 @@
 
 --------
 Contents:
-  syncit.sh
+  syncit.sh, 
+  
   mir_all.ps1
   
